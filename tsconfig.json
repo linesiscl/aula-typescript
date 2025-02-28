@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",   // Define a saída dos arquivos compilados
+    "rootDir": "./src",   // Define onde os arquivos TypeScript ficarão
+    "target": "ES6",      // Define a versão do JavaScript gerado
+    "module": "CommonJS"  // Define o sistema de módulos usado
+  }
+}
